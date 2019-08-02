@@ -1,2 +1,2 @@
 # CSCI760
-Databse project
+Database project
